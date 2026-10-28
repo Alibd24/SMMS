@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money Manager",
+  "description": "স্মার্ট মানি ম্যানেজার ও বাজেট ট্র্যাকার — অফলাইন-ফার্স্ট বাজেট ও আর্থিক হিসাব ট্র্যাকিং অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
